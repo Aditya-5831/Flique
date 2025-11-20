@@ -12,6 +12,14 @@ module.exports = {
         text_secondary: "#6E6E6E",
         custom_border: "rgba(108, 99, 255, 0.1)",
       },
+
+      fontFamily: {
+        poppinsSemi: ["PoppinsSemi"],
+        poppinsBold: ["PoppinsBold"],
+        inter: ["Inter"],
+        interMedium: ["InterMedium"],
+        interSemibold: ["InterSemibold"],
+      },
     },
   },
   plugins: [],
